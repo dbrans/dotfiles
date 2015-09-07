@@ -4,6 +4,9 @@
     fontFamily: "Menlo"
     fontSize: 15
     invisibles: {}
+    invisibles: {}
+    fontSize: 15
+    softWrapAtPreferredLineLength: true
   core:
     ignoredNames: [
       ".bundle"
